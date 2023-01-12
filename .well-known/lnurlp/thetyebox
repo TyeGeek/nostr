@@ -2,8 +2,8 @@
   "status":"OK",
   "tag":"payRequest",
   "commentAllowed":255,
-  "callback":"https://getalby.com/lnurlp/TheTyeBox/callback",
-  "metadata":"[[\"text/identifier\", \"TheTyeBox@getalby.com\"], [\"text/plain\", \"Sats for TheTyeBox\"]]",
+  "callback":"https://getalby.com/lnurlp/thetyebox/callback",
+  "metadata":"[[\"text/identifier\", \"thetyebox@getalby.com\"], [\"text/plain\", \"Sats\"]]",
   "minSendable":10,"maxSendable":11000000000,
   "payerData":
     {
