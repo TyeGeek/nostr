@@ -4,7 +4,7 @@
   "commentAllowed":255,
   "callback":"https://getalby.com/lnurlp/thetyebox/callback",
   "metadata":"[[\"text/identifier\", \"thetyebox@getalby.com\"], [\"text/plain\", \"Sats for thetyebox\"]]",
-  "minSendable":100,"maxSendable":11000000000,
+  "minSendable":1,"maxSendable":11000000000,
   "payerData":
     {
       "name":{"mandatory":false},
